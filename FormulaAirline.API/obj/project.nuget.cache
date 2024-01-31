@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aqlRw5ya/HfSv/iCugBwuNEjFSTF/jRMgvIVnPgs0/g9FrCkahy/JCEndWcw9TLbu197Wt88jdn9e8HC+a/nQ==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\personalProject\\netProjects\\FormulaAirline\\FormulaAirline.API\\FormulaAirline.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\tcmkorcil\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
